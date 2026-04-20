@@ -1,4 +1,3 @@
-//Loan Class
 class Loan {
     int loanId;
     String customerName;
